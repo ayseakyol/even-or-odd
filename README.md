@@ -8,7 +8,7 @@ I prepared this project to create a small application that allows a user to inte
 
 This is the main page of the project:
 
-![]()
+![](https://raw.githubusercontent.com/ayseakyol/ayseakyol.github.io/6d8d54d1d21d4271085c5ebbcb799f31c7c05d86/screenshot/even-odd.png)
 
 ## Installation
 
